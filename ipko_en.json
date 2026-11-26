@@ -61,10 +61,34 @@
    "imdb": "4.3/10"
   },
   {
+   "al": "Agjenti 007 E nesërmja nuk vdes kurrë",
+   "en": "Tomorrow Never Dies",
+   "year": "1997",
+   "imdb": "6.5/10"
+  },
+  {
+   "al": "Agjenti 007: Operacioni oktapodi",
+   "en": "Octopussy",
+   "year": "1983",
+   "imdb": "6.5/10"
+  },
+  {
+   "al": "Agjenti 007: Operacioni Skyfall",
+   "en": "Skyfall",
+   "year": "2012",
+   "imdb": "7.7/10"
+  },
+  {
    "al": "Agjenti 007: Syri i artë",
    "en": "GoldenEye",
    "year": 1995,
    "imdb": "7.2/10"
+  },
+  {
+   "al": "Agjenti mashtrues",
+   "en": "Rogue Agent",
+   "year": "2022",
+   "imdb": ""
   },
   {
    "al": "Agonia e një vrasësi",
@@ -91,10 +115,22 @@
    "imdb": "6.7/10"
   },
   {
+   "al": "Aladini",
+   "en": "Aladdin",
+   "year": "2019",
+   "imdb": "6.9/10"
+  },
+  {
    "al": "Alarm për Krishtlindje",
    "en": "Red One",
    "year": 2024,
    "imdb": "6.2/10"
+  },
+  {
+   "al": "Amsterdam Vice",
+   "en": "Amsterdam Vice",
+   "year": "2019",
+   "imdb": ""
   },
   {
    "al": "Ana dhe Apokalipsi",
@@ -113,6 +149,12 @@
    "en": "Anemone",
    "year": 2025,
    "imdb": "5.6/10"
+  },
+  {
+   "al": "Ankormeni",
+   "en": "Anchorman",
+   "year": "2004",
+   "imdb": "7.1/10"
   },
   {
    "al": "Arktiku",
@@ -187,6 +229,18 @@
    "imdb": "7.1/10"
   },
   {
+   "al": "Atje ku këndojnë karavidhet",
+   "en": "Where the Crawdads Sing",
+   "year": "2022",
+   "imdb": "7.0/10"
+  },
+  {
+   "al": "Aty ku fshihen Dragonjtë",
+   "en": "Where Dragons Hide",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Aventura blu 2",
    "en": "Blue Crush 2",
    "year": 2011,
@@ -241,6 +295,18 @@
    "imdb": "5.6/10"
   },
   {
+   "al": "Banda e uraganit",
+   "en": "The Hurricane Heist",
+   "year": "2018",
+   "imdb": "5.1/10"
+  },
+  {
+   "al": "Batman",
+   "en": "The Batman",
+   "year": "2022",
+   "imdb": "7.7/10"
+  },
+  {
    "al": "Bebja e Brixhet Xhonsit",
    "en": "Bridget Jones’s Baby",
    "year": 2016,
@@ -251,6 +317,12 @@
    "en": "Starship Troopers: Traitor of Mars",
    "year": 2017,
    "imdb": "5.5/10"
+  },
+  {
+   "al": "Bibliotekari",
+   "en": "The Librarian",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Binjakë",
@@ -271,6 +343,24 @@
    "imdb": "6.1/10"
   },
   {
+   "al": "Borxhi",
+   "en": "The Debt",
+   "year": "2010",
+   "imdb": "6.8/10"
+  },
+  {
+   "al": "Bota e vogël e madhe",
+   "en": "Downsizing",
+   "year": "2017",
+   "imdb": ""
+  },
+  {
+   "al": "Braveheart",
+   "en": "Braveheart",
+   "year": "1995",
+   "imdb": "8.3/10"
+  },
+  {
    "al": "Brejtësit",
    "en": "Hoppers",
    "year": "2026",
@@ -281,6 +371,12 @@
    "en": "Scream 3",
    "year": 2000,
    "imdb": "5.7/10"
+  },
+  {
+   "al": "Britma 5",
+   "en": "Scream",
+   "year": "2022",
+   "imdb": "6.3/10"
   },
   {
    "al": "Britmë e largët",
@@ -295,6 +391,24 @@
    "imdb": "7.8/10"
   },
   {
+   "al": "Burra, gra dhe fëmijë",
+   "en": "Men, Women & Children",
+   "year": "2014",
+   "imdb": ""
+  },
+  {
+   "al": "Burri nga Toronto",
+   "en": "The Man from Toronto",
+   "year": "2022",
+   "imdb": "5.7/10"
+  },
+  {
+   "al": "Buzëqeshja etruske",
+   "en": "The Etruscan Smile",
+   "year": "2018",
+   "imdb": ""
+  },
+  {
    "al": "Byroja e Njerëzimit",
    "en": "The Humanity Bureau",
    "year": 2017,
@@ -305,6 +419,12 @@
    "en": "City Island",
    "year": 2009,
    "imdb": "7.3/10"
+  },
+  {
+   "al": "Dado pa dashje",
+   "en": "Accidental Babysitter",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Dashuri deri në frymën e fundit",
@@ -323,6 +443,12 @@
    "en": "Love by the 10th Date",
    "year": 2017,
    "imdb": "5.9/10"
+  },
+  {
+   "al": "Dashuri vere",
+   "en": "Summer Love",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Dasma ime e madhe greke 3",
@@ -373,6 +499,12 @@
    "imdb": "6.7/10"
   },
   {
+   "al": "Do të bëhem trainer",
+   "en": "I Will Be a Coach",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Do të ma paguash babi",
    "en": "Getting Even with Dad",
    "year": 1994,
@@ -391,6 +523,12 @@
    "imdb": "5.9/10"
   },
   {
+   "al": "Drejtësi për të gjithë",
+   "en": "Justice for All",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Dua jetën tënde",
    "en": "The Change-Up",
    "year": 2011,
@@ -403,6 +541,12 @@
    "imdb": "6.2/10"
   },
   {
+   "al": "Dëbora e parë",
+   "en": "First Snow",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Dëshira e Sofisë",
    "en": "All She Wishes",
    "year": 2015,
@@ -413,6 +557,12 @@
    "en": "The 2nd",
    "year": 2020,
    "imdb": "3.9/10"
+  },
+  {
+   "al": "E huaj",
+   "en": "The Stranger",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "E keqja të ndjek",
@@ -451,6 +601,18 @@
    "imdb": ""
   },
   {
+   "al": "Edhe njëherë 18 vjeç",
+   "en": "18 Again",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Eleminuesi: Rilindja",
+   "en": "Eraser: Reborn",
+   "year": "2022",
+   "imdb": ""
+  },
+  {
    "al": "Emigrantja",
    "en": "The Immigrant",
    "year": 2013,
@@ -461,6 +623,18 @@
    "en": "Rogue",
    "year": 2020,
    "imdb": "4.1/10"
+  },
+  {
+   "al": "Engjëjt e Çarlit 2",
+   "en": "Charlie's Angels: Full Throttle",
+   "year": "2003",
+   "imdb": "5.6/10"
+  },
+  {
+   "al": "Era dhe luani",
+   "en": "The Wind and the Lion",
+   "year": "1975",
+   "imdb": ""
   },
   {
    "al": "Evani i gjithëpushtetshëm",
@@ -499,10 +673,22 @@
    "imdb": "4.2/10"
   },
   {
+   "al": "Familja Patar",
+   "en": "The Patar Family",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Fantazmat e Elisë",
    "en": "Eli",
    "year": 2019,
    "imdb": "7.7/10"
+  },
+  {
+   "al": "Faqja veriore",
+   "en": "North Face",
+   "year": "2008",
+   "imdb": "7.2/10"
   },
   {
    "al": "Fati i Ushtarit",
@@ -571,6 +757,18 @@
    "imdb": ""
   },
   {
+   "al": "Fotografi i Mauthausen",
+   "en": "The Photographer of Mauthausen",
+   "year": "2018",
+   "imdb": ""
+  },
+  {
+   "al": "Frankenuini",
+   "en": "Frankenweenie",
+   "year": "2012",
+   "imdb": "7.5/10"
+  },
+  {
    "al": "Ftesë në një vrasje",
    "en": "A Deadly Invitation",
    "year": 2023,
@@ -587,6 +785,12 @@
    "en": "All Girls Weekend",
    "year": 2016,
    "imdb": "2.9/10"
+  },
+  {
+   "al": "Fundjavë beqarësh",
+   "en": "Bachelor Weekend",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Fundjavë në Spa",
@@ -611,6 +815,18 @@
    "en": "Spy Kids 3: Game Over",
    "year": 2003,
    "imdb": "4.4/10"
+  },
+  {
+   "al": "Gabimi i parë",
+   "en": "First Mistake",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Gardhet",
+   "en": "Fences",
+   "year": "2016",
+   "imdb": "7.2/10"
   },
   {
    "al": "Getisburg",
@@ -709,6 +925,12 @@
    "imdb": ""
   },
   {
+   "al": "Grushti, Rikthimi i Cen Zhenit",
+   "en": "Legend of the Fist: Return of Chen Zhen",
+   "year": "2010",
+   "imdb": ""
+  },
+  {
    "al": "Gryka e Djallit",
    "en": "The Devil’s Mouth",
    "year": 2026,
@@ -731,6 +953,12 @@
    "en": "Nobili bugie",
    "year": 2017,
    "imdb": "6/10"
+  },
+  {
+   "al": "Gënjeshtra të bukura",
+   "en": "Beautiful Lies",
+   "year": "2010",
+   "imdb": "6.7/10"
   },
   {
    "al": "Gërmadhat",
@@ -775,6 +1003,18 @@
    "imdb": ""
   },
   {
+   "al": "Hani dhe Nani 3",
+   "en": "Hanni and Nanni 3",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Hardcore Misioni ekstrem",
+   "en": "Hardcore Henry",
+   "year": "2015",
+   "imdb": "6.7/10"
+  },
+  {
    "al": "Harresë",
    "en": "Oblivion",
    "year": 2013,
@@ -811,6 +1051,12 @@
    "imdb": ""
   },
   {
+   "al": "Histori Sirenash",
+   "en": "Mermaid Story",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Historia e kampionit",
    "en": "Legendary",
    "year": 2010,
@@ -827,6 +1073,12 @@
    "en": "Stagecoach: Texas Jack Story",
    "year": 2016,
    "imdb": "4.5/10"
+  },
+  {
+   "al": "Historia e Xho Mek",
+   "en": "Telstar: The Joe Meek Story",
+   "year": "2008",
+   "imdb": ""
   },
   {
    "al": "Hot shots 2",
@@ -871,6 +1123,12 @@
    "imdb": "6.1/10"
   },
   {
+   "al": "IO:E vetme në Tokë",
+   "en": "IO: Alone on Earth",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Ish",
    "en": "Ex",
    "year": 2009,
@@ -907,6 +1165,12 @@
    "imdb": "6.7/10"
   },
   {
+   "al": "Jetë endacakësh",
+   "en": "Wanderlust",
+   "year": "2012",
+   "imdb": "5.6/10"
+  },
+  {
    "al": "Jo vetëm dashuri",
    "en": "Hooking Up",
    "year": 2020,
@@ -931,10 +1195,22 @@
    "imdb": "5.6/10"
   },
   {
+   "al": "Kalorësit e thesarit - E fshehta e Meluzinës",
+   "en": "Treasure Knights - Secret of Melusine",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Kalorësit Hollivudianë",
    "en": "The Hollywood Knights",
    "year": 1980,
    "imdb": "6.2/10"
+  },
+  {
+   "al": "Kamerierja",
+   "en": "Waitress",
+   "year": "2007",
+   "imdb": "7.0/10"
   },
   {
    "al": "Kapiten Amerika 2: Ushtari i Dimrit",
@@ -991,6 +1267,18 @@
    "imdb": ""
   },
   {
+   "al": "Koha nuk Pret",
+   "en": "Ordinary Angels",
+   "year": "2024",
+   "imdb": ""
+  },
+  {
+   "al": "Koha për të gënjyer",
+   "en": "Time Out",
+   "year": "2001",
+   "imdb": ""
+  },
+  {
    "al": "Kohë për veten",
    "en": "Me Time",
    "year": 2022,
@@ -1013,6 +1301,12 @@
    "en": "Daredevil",
    "year": 2003,
    "imdb": "5.3/10"
+  },
+  {
+   "al": "Komando",
+   "en": "Commando",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Komandoja e bombarduesve",
@@ -1039,10 +1333,34 @@
    "imdb": "6.4/10"
   },
   {
+   "al": "Konkord Aeroport",
+   "en": "Concorde Airport",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Kopja",
    "en": "Dual",
    "year": 2022,
    "imdb": "7/10"
+  },
+  {
+   "al": "Korrespondentët specialë",
+   "en": "Special Correspondents",
+   "year": "2016",
+   "imdb": "5.8/10"
+  },
+  {
+   "al": "Kozimo dhe Nikola",
+   "en": "Cosimo and Nicole",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Krateri",
+   "en": "Crater",
+   "year": "2023",
+   "imdb": ""
   },
   {
    "al": "Krime seksuale - Lojëra me rrezik",
@@ -1093,16 +1411,34 @@
    "imdb": "5.9/10"
   },
   {
+   "al": "Krudët, një epokë e re",
+   "en": "The Croods: A New Age",
+   "year": "2020",
+   "imdb": "6.9/10"
+  },
+  {
    "al": "Kruella",
    "en": "Cruella",
    "year": 2021,
    "imdb": "7.3/10"
   },
   {
+   "al": "Kryqëzimi i Kasandrës",
+   "en": "The Cassandra Crossing",
+   "year": "1976",
+   "imdb": ""
+  },
+  {
    "al": "Kthetra e hekurt",
    "en": "The Iron Claw",
    "year": "2023",
    "imdb": "7.0/10"
+  },
+  {
+   "al": "Kthim në Burgonjë",
+   "en": "Return to Burgundy",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Kthimi i mumjes",
@@ -1135,6 +1471,12 @@
    "imdb": "5.7/10"
   },
   {
+   "al": "Kujtimet e nënës sime",
+   "en": "My Mother's Memories",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Kuqoja",
    "en": "Red Dog",
    "year": 2011,
@@ -1163,6 +1505,12 @@
    "en": "Catch a Fire",
    "year": 2006,
    "imdb": "6.7/10"
+  },
+  {
+   "al": "Kushërira ime Rakela",
+   "en": "My Cousin Rachel",
+   "year": "2017",
+   "imdb": "6.0/10"
   },
   {
    "al": "Kutia muzikore",
@@ -1255,6 +1603,12 @@
    "imdb": "8.3/10"
   },
   {
+   "al": "Loving",
+   "en": "Loving",
+   "year": "2016",
+   "imdb": "7.0/10"
+  },
+  {
    "al": "Luftëtari i fundit",
    "en": "Posledniy bogatyr",
    "year": 2017,
@@ -1303,10 +1657,28 @@
    "imdb": "5.7/10"
   },
   {
+   "al": "Marshall",
+   "en": "Marshall",
+   "year": "2017",
+   "imdb": "7.3/10"
+  },
+  {
    "al": "Marshimi i Fundit",
    "en": "The Long Walk",
    "year": 2025,
    "imdb": ""
+  },
+  {
+   "al": "Masat e Detyrueshme",
+   "en": "Compulsory Measures",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Maska e hekurt",
+   "en": "The Man in the Iron Mask",
+   "year": "1998",
+   "imdb": "6.5/10"
   },
   {
    "al": "Maska e Zorros",
@@ -1331,6 +1703,12 @@
    "en": "The First King",
    "year": 2019,
    "imdb": "6.5/10"
+  },
+  {
+   "al": "Mbreti i Teksasit",
+   "en": "King of Texas",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Mbreti Majmun 3",
@@ -1375,6 +1753,18 @@
    "imdb": "5.5/10"
   },
   {
+   "al": "Mesjetari",
+   "en": "Medieval",
+   "year": "2022",
+   "imdb": "6.8/10"
+  },
+  {
+   "al": "Metropolis",
+   "en": "Metropolis",
+   "year": "1927",
+   "imdb": "8.3/10"
+  },
+  {
    "al": "Mia dhe Njëbrirëshi",
    "en": "Wish Upon a Unicorn",
    "year": 2020,
@@ -1393,6 +1783,12 @@
    "imdb": "6.3/10"
   },
   {
+   "al": "Mirë se vini në bord",
+   "en": "Welcome on Board",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Mirëmëngjes Trishtim!",
    "en": "Bonjour tristesse",
    "year": 1958,
@@ -1405,6 +1801,12 @@
    "imdb": "6.9/10"
   },
   {
+   "al": "Misioni i Marsit",
+   "en": "Mission to Mars",
+   "year": "2000",
+   "imdb": "5.6/10"
+  },
+  {
    "al": "Misioni në 21 Jump Street",
    "en": "21 Jump Street",
    "year": 2012,
@@ -1415,6 +1817,24 @@
    "en": "The fix",
    "year": 2026,
    "imdb": "4.9/10"
+  },
+  {
+   "al": "Misioni vetëvrasës",
+   "en": "Suicide Mission",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Mister në Londër",
+   "en": "See How They Run",
+   "year": "2022",
+   "imdb": "6.8/10"
+  },
+  {
+   "al": "Miushi Perez 2",
+   "en": "Perez the Mouse 2",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Mjegulla",
@@ -1435,6 +1855,24 @@
    "imdb": "5.8/10"
   },
   {
+   "al": "Mosbindja",
+   "en": "Disobedience",
+   "year": "2017",
+   "imdb": "6.6/10"
+  },
+  {
+   "al": "Mosul",
+   "en": "Mosul",
+   "year": "2019",
+   "imdb": ""
+  },
+  {
+   "al": "Motrat gazmore 2",
+   "en": "Sister Act 2",
+   "year": "1993",
+   "imdb": "6.5/10"
+  },
+  {
    "al": "Mrekulli në Milano",
    "en": "Miracolo a Milano",
    "year": 1951,
@@ -1445,6 +1883,12 @@
    "en": "Miracles from Heaven",
    "year": 2016,
    "imdb": "7.1/10"
+  },
+  {
+   "al": "Mrekullia",
+   "en": "The Wonder",
+   "year": "2022",
+   "imdb": "6.6/10"
   },
   {
    "al": "Mundësia e fundit",
@@ -1465,9 +1909,21 @@
    "imdb": "5.2/10"
   },
   {
+   "al": "Murtaja",
+   "en": "The Plague",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Muzikë",
    "en": "Música",
    "year": 2024,
+   "imdb": "6.4/10"
+  },
+  {
+   "al": "Më i shpejti",
+   "en": "Faster",
+   "year": "2010",
    "imdb": "6.4/10"
   },
   {
@@ -1475,6 +1931,12 @@
    "en": "Dance Flick",
    "year": 2009,
    "imdb": "3.7/10"
+  },
+  {
+   "al": "Mënjanë",
+   "en": "Aside",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Na ishte një herë një familje",
@@ -1513,6 +1975,12 @@
    "imdb": "6/10"
   },
   {
+   "al": "Natën vonë",
+   "en": "Late Night",
+   "year": "2019",
+   "imdb": "6.5/10"
+  },
+  {
    "al": "Ndarja",
    "en": "The Break-Up",
    "year": 2006,
@@ -1529,6 +1997,18 @@
    "en": "La tenerezza",
    "year": 2017,
    "imdb": ""
+  },
+  {
+   "al": "Ndjesia e mrekullisë",
+   "en": "Sense of Wonder",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Ndjesia e përsosur e dashurisë",
+   "en": "Perfect Sense",
+   "year": "2011",
+   "imdb": "7.0/10"
   },
   {
    "al": "Ndëshkuesi",
@@ -1555,6 +2035,12 @@
    "imdb": "6.5/10"
   },
   {
+   "al": "Ngritja e Fajkoit",
+   "en": "Rise of the Falcon",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Nipcja i gjyshes",
    "en": "Grandma’s Boy",
    "year": 2006,
@@ -1567,10 +2053,22 @@
    "imdb": "5.5/10"
   },
   {
+   "al": "Njeriu-Merimangë: Moskthimi në shtëpi",
+   "en": "Spider-Man: No Way Home",
+   "year": "2021",
+   "imdb": "8.0/10"
+  },
+  {
    "al": "Njerëz si ne",
    "en": "People Like Us",
    "year": 2012,
    "imdb": "7/10"
+  },
+  {
+   "al": "Një grua në karrierë",
+   "en": "Working Girl",
+   "year": "1988",
+   "imdb": "6.8/10"
   },
   {
    "al": "Një ideal amerikan",
@@ -1589,6 +2087,12 @@
    "en": "Holly Slept Over",
    "year": 2020,
    "imdb": "5.6/10"
+  },
+  {
+   "al": "Një natë prej doktori",
+   "en": "Doctor for a Night",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Një patë në arrati",
@@ -1621,6 +2125,12 @@
    "imdb": "6.3/10"
   },
   {
+   "al": "Norbit",
+   "en": "Norbit",
+   "year": "2007",
+   "imdb": "4.2/10"
+  },
+  {
    "al": "Nuk ka sinjal",
    "en": "Y’a pas de réseau",
    "year": 2025,
@@ -1637,6 +2147,12 @@
    "en": "In the Name of the King: Two Worlds",
    "year": 2011,
    "imdb": "3.1/10"
+  },
+  {
+   "al": "Në emër të rrezikut 2",
+   "en": "In the Name of Danger 2",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Në ferr",
@@ -1675,6 +2191,18 @@
    "imdb": ""
   },
   {
+   "al": "Në mes të askundit",
+   "en": "Nowhere",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Në udhëtim me mamanë",
+   "en": "The Guilt Trip",
+   "year": "2012",
+   "imdb": "5.7/10"
+  },
+  {
    "al": "Nën zjarr",
    "en": "Under Fire",
    "year": 2025,
@@ -1685,6 +2213,12 @@
    "en": "The First Omen",
    "year": 2024,
    "imdb": "6.5/10"
+  },
+  {
+   "al": "Oliveri",
+   "en": "Oliver!",
+   "year": "1968",
+   "imdb": ""
   },
   {
    "al": "Ora e ligjit",
@@ -1711,6 +2245,12 @@
    "imdb": "5.2/10"
   },
   {
+   "al": "Panama",
+   "en": "Panama",
+   "year": "2022",
+   "imdb": ""
+  },
+  {
    "al": "Panik në parkun e gjilpërave",
    "en": "The Panic in Needle Park",
    "year": 1971,
@@ -1727,6 +2267,18 @@
    "en": "Candy",
    "year": 2006,
    "imdb": "7.2/10"
+  },
+  {
+   "al": "Paris-Manhattan",
+   "en": "Paris-Manhattan",
+   "year": "2012",
+   "imdb": ""
+  },
+  {
+   "al": "Parkuesi",
+   "en": "The Valet",
+   "year": "2022",
+   "imdb": ""
   },
   {
    "al": "Pas çak-Outlander",
@@ -1771,6 +2323,12 @@
    "imdb": "3.8/10"
   },
   {
+   "al": "Pema magjike",
+   "en": "The Magic Tree",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Penat",
    "en": "Quills",
    "year": 2000,
@@ -1807,10 +2365,28 @@
    "imdb": ""
   },
   {
+   "al": "Pesë të famshmit dhe Lugina e Dinosaurëve",
+   "en": "Famous Five and Dinosaur Valley",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Pianisti",
    "en": "The Pianist",
    "year": 2002,
    "imdb": "8.5/10"
+  },
+  {
+   "al": "Pika e Kthesës",
+   "en": "Turning Point",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Pikselat",
+   "en": "Pixels",
+   "year": "2015",
+   "imdb": "5.5/10"
   },
   {
    "al": "Piloti luftarak",
@@ -1835,6 +2411,12 @@
    "en": "Pete’s Dragon",
    "year": 2016,
    "imdb": ""
+  },
+  {
+   "al": "Pjesa e engjëjve",
+   "en": "The Angels' Share",
+   "year": "2012",
+   "imdb": "7.0/10"
   },
   {
    "al": "Plaku dhe arma",
@@ -1877,6 +2459,18 @@
    "en": "Post Impact",
    "year": 2004,
    "imdb": "3.3/10"
+  },
+  {
+   "al": "Pranverë",
+   "en": "Spring",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Prifti",
+   "en": "Priest",
+   "year": "2011",
+   "imdb": "5.7/10"
   },
   {
    "al": "Princesha e dashuruar",
@@ -1927,6 +2521,48 @@
    "imdb": "4.6/10"
   },
   {
+   "al": "Përbindësha të tjerë",
+   "en": "Other Monsters",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Përleshje në Hajd Park",
+   "en": "Hyde Park Brawl",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Qeni mafioz",
+   "en": "Mafia Dog",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Qilari",
+   "en": "The Cellar",
+   "year": "2022",
+   "imdb": ""
+  },
+  {
+   "al": "Qyteti i humbur",
+   "en": "The Lost City",
+   "year": "2022",
+   "imdb": "6.1/10"
+  },
+  {
+   "al": "Qëllime mizore",
+   "en": "Cruel Intentions",
+   "year": "1999",
+   "imdb": "6.8/10"
+  },
+  {
+   "al": "Rapanzell",
+   "en": "Tangled",
+   "year": "2010",
+   "imdb": "7.7/10"
+  },
+  {
    "al": "Regjisori i krisur",
    "en": "Bowfinger aka Big Movie",
    "year": "",
@@ -1943,6 +2579,30 @@
    "en": "Nightcrawler",
    "year": 2014,
    "imdb": "7.8/10"
+  },
+  {
+   "al": "Ritmi i suksesit 1",
+   "en": "Center Stage",
+   "year": "2000",
+   "imdb": ""
+  },
+  {
+   "al": "Road trip",
+   "en": "Road Trip",
+   "year": "2000",
+   "imdb": "6.4/10"
+  },
+  {
+   "al": "Roma",
+   "en": "Roma",
+   "year": "2018",
+   "imdb": "7.7/10"
+  },
+  {
+   "al": "Romancë dëbore",
+   "en": "Snow Romance",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Rripi i kuq",
@@ -1966,6 +2626,12 @@
    "al": "Rrëmbim i heshtur",
    "en": "Red Eye",
    "year": 2005,
+   "imdb": "6.4/10"
+  },
+  {
+   "al": "Rënia",
+   "en": "Fall",
+   "year": "2022",
    "imdb": "6.4/10"
   },
   {
@@ -2011,6 +2677,12 @@
    "imdb": "5.4/10"
   },
   {
+   "al": "Seks shoqëror",
+   "en": "Friends with Benefits",
+   "year": "2011",
+   "imdb": "6.5/10"
+  },
+  {
    "al": "Seksi i engjëjve",
    "en": "Il sesso degli angeli",
    "year": 2022,
@@ -2035,10 +2707,22 @@
    "imdb": "6.8/10"
   },
   {
+   "al": "Shimpazeja",
+   "en": "Chimpanzee",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Shkatërrimi",
    "en": "Demolition",
    "year": 2015,
    "imdb": "7/10"
+  },
+  {
+   "al": "Shkretëtira e Borregos",
+   "en": "Borrego",
+   "year": "2022",
+   "imdb": ""
   },
   {
    "al": "Shkretëtira e Kuqe",
@@ -2063,6 +2747,12 @@
    "en": "Mike and Dave Need Wedding Dates",
    "year": 2016,
    "imdb": "6/10"
+  },
+  {
+   "al": "Shpatarët e mbretit: Fantazia e fundit",
+   "en": "Kingsglaive: Final Fantasy XV",
+   "year": "2016",
+   "imdb": ""
   },
   {
    "al": "Shpejtësi dhe çmenduri 2",
@@ -2095,6 +2785,12 @@
    "imdb": "5.8/10"
   },
   {
+   "al": "Shpërblesa e milionerëve",
+   "en": "Millionaires' Reward",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Shpëtoni veten",
    "en": "Save Yourselves!",
    "year": 2020,
@@ -2105,6 +2801,12 @@
    "en": "The Last House",
    "year": 2026,
    "imdb": "5.5/10"
+  },
+  {
+   "al": "Shtëpia e gjyshit",
+   "en": "Grandfather's House",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Shtëpia në ujë",
@@ -2135,6 +2837,30 @@
    "en": "Maximum Conviction",
    "year": 2012,
    "imdb": "4.7/10"
+  },
+  {
+   "al": "Sirena e vogël:Miq përgjithmonë",
+   "en": "Little Mermaid: Friends Forever",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Sistemi",
+   "en": "The System",
+   "year": "2022",
+   "imdb": ""
+  },
+  {
+   "al": "Situatë kritike",
+   "en": "Critical Situation",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Skuadra e arinjve",
+   "en": "Bad Bears Team",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Snajper: Qëndresa e fundit",
@@ -2215,6 +2941,12 @@
    "imdb": "6.6/10"
   },
   {
+   "al": "Sërish maturante",
+   "en": "Senior Year",
+   "year": "2022",
+   "imdb": "5.6/10"
+  },
+  {
    "al": "S’e di si ia del",
    "en": "I Don’t Know How She Does It",
    "year": 2011,
@@ -2231,6 +2963,12 @@
    "en": "Cake Eaters",
    "year": 2007,
    "imdb": "6.3/10"
+  },
+  {
+   "al": "Takim me prindërit",
+   "en": "Meet the Parents",
+   "year": "2000",
+   "imdb": "7.1/10"
   },
   {
    "al": "Taksi Teheran",
@@ -2257,6 +2995,12 @@
    "imdb": "6.1/10"
   },
   {
+   "al": "Taverna e alegrisë",
+   "en": "Holiday Inn",
+   "year": "1942",
+   "imdb": ""
+  },
+  {
    "al": "Teh i fshehtë",
    "en": "Hidden Blade",
    "year": 2023,
@@ -2281,10 +3025,22 @@
    "imdb": "6.9/10"
   },
   {
+   "al": "Territori armiqësor",
+   "en": "Hostile Territory",
+   "year": "2022",
+   "imdb": ""
+  },
+  {
    "al": "Tersllëku i familjes Mërfi",
    "en": "Jinxed",
    "year": 2013,
    "imdb": "6.3/10"
+  },
+  {
+   "al": "Thika Misterioze - Natë Terrori në Krishtlindje",
+   "en": "It's a Wonderful Knife",
+   "year": "2023",
+   "imdb": ""
   },
   {
    "al": "Thuaj lamtumirë gjithë kësaj",
@@ -2297,6 +3053,12 @@
    "en": "Bending the Rules",
    "year": 2012,
    "imdb": "4.8/10"
+  },
+  {
+   "al": "Tigrat e Hekurudhës",
+   "en": "Railroad Tigers",
+   "year": "2016",
+   "imdb": "5.7/10"
   },
   {
    "al": "Titanët e Paqësorit 2: Rebelimi",
@@ -2317,6 +3079,18 @@
    "imdb": "5.8/10"
   },
   {
+   "al": "Tokë e Errët 2",
+   "en": "Dark Land 2",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Tost: Historia e djalit të uritur",
+   "en": "Toast",
+   "year": "2010",
+   "imdb": ""
+  },
+  {
    "al": "Tradhtari mes nesh",
    "en": "The Sentinel",
    "year": 2006,
@@ -2327,6 +3101,12 @@
    "en": "Traffik",
    "year": 2018,
    "imdb": "5.9/10"
+  },
+  {
+   "al": "Trashëgimia e gënjeshtrave",
+   "en": "Legacy of Lies",
+   "year": "2020",
+   "imdb": ""
   },
   {
    "al": "Trashëgimtari i të ligës",
@@ -2389,6 +3169,12 @@
    "imdb": "5.8/10"
   },
   {
+   "al": "Të fundit do të mbeten të fundit",
+   "en": "The Last Will Be Last",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Të fundosur",
    "en": "Towed in a Hole",
    "year": 1932,
@@ -2417,6 +3203,18 @@
    "en": "How to Lose a Guy in 10 Days",
    "year": 2003,
    "imdb": "6.6/10"
+  },
+  {
+   "al": "Të luash me vdekjen",
+   "en": "The Hurt Locker",
+   "year": "2008",
+   "imdb": "7.5/10"
+  },
+  {
+   "al": "Të Moshuar",
+   "en": "The Elderly",
+   "year": "2022",
+   "imdb": ""
   },
   {
    "al": "Të pandarë",
@@ -2521,16 +3319,40 @@
    "imdb": ""
   },
   {
+   "al": "Vajza e agjentit",
+   "en": "Agent's Daughter",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Vajza e kuizit",
+   "en": "Quiz Lady",
+   "year": "2023",
+   "imdb": ""
+  },
+  {
    "al": "Vala e pestë",
    "en": "The 5th Wave",
    "year": 2016,
    "imdb": "5.2/10"
   },
   {
+   "al": "Vanilje dhe çokollatë",
+   "en": "Vanilla and Chocolate",
+   "year": "2004",
+   "imdb": ""
+  },
+  {
    "al": "Varreza e kafshëve",
    "en": "Pet Sematary",
    "year": 2019,
    "imdb": "5.7/10"
+  },
+  {
+   "al": "Vdekje në Nil",
+   "en": "Death on the Nile",
+   "year": "2022",
+   "imdb": "6.3/10"
   },
   {
    "al": "Vdis vetëm",
@@ -2557,6 +3379,12 @@
    "imdb": "5.8/10"
   },
   {
+   "al": "Vendimi për të ikur",
+   "en": "Decision to Leave",
+   "year": "2022",
+   "imdb": "7.3/10"
+  },
+  {
    "al": "Vendtakimi",
    "en": "The Place",
    "year": 2017,
@@ -2575,6 +3403,18 @@
    "imdb": "6.3/10"
   },
   {
+   "al": "Versioni i Barnit",
+   "en": "Barney's Version",
+   "year": "2010",
+   "imdb": ""
+  },
+  {
+   "al": "Veza e çuditshme",
+   "en": "Hatching",
+   "year": "2022",
+   "imdb": "6.0/10"
+  },
+  {
    "al": "Vilhelm Tel",
    "en": "William Tell",
    "year": 2024,
@@ -2584,6 +3424,18 @@
    "al": "Vizitorët e mistershëm",
    "en": "Magnifica presenza",
    "year": 2012,
+   "imdb": ""
+  },
+  {
+   "al": "Vjedhja e madhe",
+   "en": "The Big Theft",
+   "year": "",
+   "imdb": ""
+  },
+  {
+   "al": "Vladi i çmendur",
+   "en": "Crazy Vlad",
+   "year": "",
    "imdb": ""
   },
   {
@@ -2597,6 +3449,12 @@
    "en": "The Killer",
    "year": 2023,
    "imdb": "6.7/10"
+  },
+  {
+   "al": "Vrasësi i kung fu",
+   "en": "Kung Fu Killer",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Vrasësi i tatuazheve",
@@ -2659,10 +3517,22 @@
    "imdb": "5.3/10"
   },
   {
+   "al": "Zemërdragoi 5: Hakmarrja",
+   "en": "Dragonheart 5: Vengeance",
+   "year": "",
+   "imdb": ""
+  },
+  {
    "al": "Zemërthyesi",
    "en": "The Heartbreak Kid",
    "year": 2007,
    "imdb": "5.9/10"
+  },
+  {
+   "al": "Zhdukja e Liza Kridit",
+   "en": "The Disappearance of Lisa Creed",
+   "year": "",
+   "imdb": ""
   },
   {
    "al": "Ziliqari",
